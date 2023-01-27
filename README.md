@@ -12,7 +12,7 @@ Our mission is to empower designers to develop their own circuit board designs b
 
 Firmware Notes: 
 
-This repository provides bin and UF2 CircuitPython files for BrainBoardz Neuron. The CP versions currently being implemented are 7.3.3 and the latest Beta for CircuitPython 8.
+This repository provides bin and UF2 CircuitPython files for the BrainBoardz Neuron. The Circuit Python versions currently being implemented are 7.3.3 and the latest Beta for CircuitPython 8.
 
 To utilize these files we recommend that you use the Web Tool.
 
