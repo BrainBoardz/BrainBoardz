@@ -20,6 +20,8 @@ Our mission is to empower designers to develop their own circuit board designs b
 
 ![Neurons](https://www.brainboardz.com/wp-content/uploads/2023/01/BREADBOARD_withFramepng.png)
 
+![Neurons](https://www.brainboardz.com/wp-content/uploads/2023/01/pinouts_small.png)
+
 ***
 
 Firmware Notes: 
