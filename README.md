@@ -1,10 +1,9 @@
 ### 
 
-<div style="text-align:center">
-![Neuron](https://www.brainboardz.com/wp-content/uploads/2022/11/nueron-Z3.png)
-</div>
-  
+ 
 This is the official repository for the Neuron and the BrainBoardz system. The Neurons are ESP32-S3 based modules that support Arduino and Circuit Python. 
+
+![Neuron](https://www.brainboardz.com/wp-content/uploads/2022/11/nueron-Z3.png)
 
 BrainBoardz is a revolutionary modular Mini PCE Express (mPCIe) based system that greatly simplifies circuit board design and the development of custom microcontroller based boards.  Through the use of our expanding range of hot-swappable Neuron modules and BrainBoardz prototyping boards anyone can easily develop custom projects to harness the impressive capabilities of the latest generation Espressif microcontroller. Simply connect an ESP32-S3 based Neuron module to one of our many BrainBoardz, connect a USB cable and you are ready to go! Neurons provide full access to the extensive range of capabilities provided by the cutting edge ESP32-S3, and they can also function as standalone modules if required.
 
