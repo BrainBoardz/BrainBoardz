@@ -1,6 +1,6 @@
 ### 
 
-![Neuron[(https://www.brainboardz.com/wp-content/uploads/2022/11/nueron-Z3.png)
+![Neuron](https://www.brainboardz.com/wp-content/uploads/2022/11/nueron-Z3.png)
 
 This is the official repository for the Neuron and the BrainBoardz system. The Neurons are ESP32-S3 based modules that support Arduino and Circuit Python. 
 
