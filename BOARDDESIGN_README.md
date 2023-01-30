@@ -1,4 +1,4 @@
-﻿All BrainBoardz projects are developed in EasEDA using the EasyEDA Standard Edition. You can download this editor from here: 
+﻿All BrainBoardz projects are developed in EasyEDA using EasyEDA Standard Edition. You can download this editor from here: 
 
 <https://easyeda.com/page/download>
 
