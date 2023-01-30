@@ -16,6 +16,8 @@ Our mission is to empower designers to develop their own circuit board designs b
 
 ![Neurons](https://www.brainboardz.com/wp-content/uploads/2023/01/BREADBOARD_withFramepng.png)
 
+***
+
 Firmware Notes: 
 
 This repository provides bin and UF2 CircuitPython files for the BrainBoardz Neuron. The Circuit Python versions currently being implemented are 7.3.3 and the latest Beta for CircuitPython 8.
