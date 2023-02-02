@@ -1,6 +1,6 @@
 ### 
 
-## BRAINBOARDZ
+## BRAINBOARDZ - PLUG and CODE! 
 
 ![Neurons](https://www.brainboardz.com/wp-content/uploads/2023/01/boardfamily.png)
 
