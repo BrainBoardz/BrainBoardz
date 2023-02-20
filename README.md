@@ -25,7 +25,9 @@ This repository provides CircuitPython firmware bin files for the BrainBoardz Ne
 
 https://adafruit.github.io/Adafruit_WebSerial_ESPTool/
 
-Instructions for setting up the ESP WebSerial Tool in Google Chrome can be found here: https://learn.adafruit.com/adafruit-magtag/web-serial-esptool
+Instructions for setting up the ESP WebSerial Tool in Google Chrome can be found here:
+
+https://learn.adafruit.com/adafruit-magtag/web-serial-esptool
 
 Neurons also support Arduino, Micropython and PlaformIO. For further instructions on these platforms please visit the Downloads page of the BrainBoardz website at:
 
