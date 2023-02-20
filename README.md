@@ -21,11 +21,15 @@ We do not allow 3rd party board developers to use our logo/branding, but you are
 
 Firmware Notes: 
 
-This repository provides CircuitPython firmware bin files for the BrainBoardz Neuron. The CircuitPython versions currently being implemented are 7.3.X and CircuitPython 8 (beta). To utilize these files we recommend that you use Adafruit's ESP WebSerial Tool: 
+This repository provides CircuitPython firmware bin files for the BrainBoardz Neuron. The current firmware version we use is for CircuitPython 8 (latest CP). To install firmware files on the Neuron we recommend that you use Adafruit's ESP WebSerial Tool: 
 
 https://adafruit.github.io/Adafruit_WebSerial_ESPTool/
 
-Instructions for setting up the ESP WebSerial Tool in Google Chrome: https://learn.adafruit.com/adafruit-magtag/web-serial-esptool
+Instructions for setting up the ESP WebSerial Tool in Google Chrome can be found here: https://learn.adafruit.com/adafruit-magtag/web-serial-esptool
+
+Neurons also support Arduino, Micropython and PlaformIO. For further instructions on these platforms please visit the Downloads page of the BrainBoardz website at:
+
+https://www.brainboardz.com/downloads/
 
 Plug and Code! 
 
