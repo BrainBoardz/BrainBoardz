@@ -2,7 +2,7 @@
 
 ## BRAINBOARDZ - PLUG and CODE! 
 
-![Neurons](https://www.brainboardz.com/wp-content/uploads/2023/08/boardfamily-1.png)
+![Neurons](https://www.brainboardz.com/wp-content/uploads/2024/06/Brainboardz-Series-V7.png)
 
 This is the official repository for the BrainBoardz/Neuron system. Neurons are ESP32-S3 based modules that support Arduino, CircuitPython, MicroPython and PlatformIO. Our mission is to empower designers to develop their own circuit board designs based on our advanced surface mount friendly mPCIe architecture. The entire BrainBoardz system is fully documented, open source and 100% license free. You are welcome to design your own Neuron/BrainBoardz based projects. 
 
