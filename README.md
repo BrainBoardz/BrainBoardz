@@ -10,7 +10,8 @@ BrainBoardz is a revolutionary modular Mini PCE Express (mPCIe) based system tha
 
 Neurons are connected to BrainBoardz using easy to print 3D parts. The mPCIe connector approach supports ultra-low profile projects and guarantees microcontroller module re-usability. There are no fragile pins to contend with in the BrainBoardz system. It is truly a Plug and Code solution! Neuron S3 boards support Wi-Fi, Bluetooth, Touch Sensing and SD Card Storage. If you would like to learn more about BrainBoardz please visit our website http://www.brainboardz.com.
 
-![Neurons](https://www.brainboardz.com/wp-content/uploads/2024/06/Neurons-V7.png)
+![Neurons](https://www.brainboardz.com/wp-content/uploads/2024/06/Neuron-M-components.png)
+![Neurons](https://www.brainboardz.com/wp-content/uploads/2024/06/Neuron-P-components-1.png)
 
 We do not permit 3rd party board developers to use our logo/branding, but you are welcome to indicate that your project is BrainBoardz compatible if it is 100% (pin) compatible and it is produced using lead free solder.  Please ensure that you follow our board design guidelines very closely. Pin assignments and the accurate placement of Neuron board mounting components is extremely important.  If you are developing a custom board please ensure that the core Neuron components function properly (including I2C, SPI, SD Card and the "Blink" LED) with your design. If you create a really interesting board we would love to see it! The PCB designs and schematics for the entire BrainBoardz system are released under the Creative Commons Attribution Share-Alike license Version 4.0. Our code library is released under the GPLv3 license. 
 
