@@ -4,32 +4,23 @@
 
 ![Neurons](https://www.brainboardz.com/wp-content/uploads/2024/06/Brainboardz-Series-V7.png)
 
-This is the official repository for the BrainBoardz/Neuron system. Neurons are ESP32-S3 based modules that support Arduino, CircuitPython, MicroPython and PlatformIO. Our mission is to empower designers to develop their own circuit board designs based on our advanced surface mount friendly mPCIe architecture. The entire BrainBoardz system is fully documented, open source and 100% license free. You are welcome to design your own Neuron/BrainBoardz based projects. 
+This is the official repository for the BrainBoardz BZBoard system. BZBoards are video (DVI/VGA) and audio centric ESP32-S3 and RP2350B based microcontroller based computers with additional modules that support libraries in Arduino, CircuitPython, MicroPython, AnnexRDS and PlatformIO. Our mission is to empower designers to develop projects based on our advanced and powerful microcontroller architecture. The entire BrainBoardz system is fully documented, open source and 100% license free. 
 
-BrainBoardz is a revolutionary modular Mini PCE Express (mPCIe) based system that greatly simplifies circuit board design and the development of custom microcontroller based boards.  Through the use of our expanding range of hot-swappable Neuron modules and BrainBoardz prototyping boards anyone can easily develop custom projects to harness the impressive capabilities of the latest generation Espressif ESP32-S3 microcontroller. Simply connect an ESP32-S3 based Neuron module to one of our many BrainBoardz, connect a USB cable and you are ready to go. Neurons provide full access to the extensive range of capabilities provided by the cutting edge ESP32-S3, and they can also function as standalone modules if required. 
-
-Neurons are connected to BrainBoardz using easy to print 3D parts. The mPCIe connector approach supports ultra-low profile projects and guarantees microcontroller module re-usability. There are no fragile pins to contend with in the BrainBoardz system. It is truly a Plug and Code solution! Neuron S3 boards support Wi-Fi, Bluetooth, Touch Sensing and SD Card Storage. If you would like to learn more about BrainBoardz please visit our website http://www.brainboardz.com.
+Through the use of our expanding range of cross compatible modules and easy prototyping boards anyone can easily develop custom projects to harness the impressive capabilities of the latest generation of the Raspberry Pi RP2350B and the Espressif ESP32-S3. Simply connect one of our ESP32-S3 or RP235OB boards to a USB cable and you are ready to go. 
 
 ![Neurons](https://www.brainboardz.com/wp-content/uploads/2024/06/Neuron-M-components.png)
 
 ![Neurons](https://www.brainboardz.com/wp-content/uploads/2024/06/Neuron-P-components-1.png)
 
-We do not permit 3rd party board developers to use our logo/branding, but you are welcome to indicate that your project is BrainBoardz compatible if it is 100% (pin) compatible and it is produced using lead free solder.  Please ensure that you follow our board design guidelines very closely. Pin assignments and the accurate placement of Neuron board mounting components is extremely important.  If you are developing a custom board please ensure that the core Neuron components function properly (including I2C, SPI, SD Card and the "Blink" LED) with your design. If you create a really interesting board we would love to see it! The PCB designs and schematics for the entire BrainBoardz system are released under the Creative Commons Attribution Share-Alike license Version 4.0. Our code library is released under the GPLv3 license. 
+We do not permit 3rd party board developers to use our logo/branding, but you are welcome to indicate that your project is BrainBoardz compatible if it is 100% (pin) compatible and it is produced using lead free solder.  The PCB designs and schematics for the entire BrainBoardz system are released under the Creative Commons Attribution Share-Alike license Version 4.0. Our code library is released under the GPLv3 license. 
 
 
 ***
 
 Firmware Notes: 
 
-This repository provides CircuitPython firmware bin files for the BrainBoardz Neuron. The current firmware version we use is for CircuitPython 8 (latest CP). To install firmware files on the Neuron we recommend that you use Adafruit's ESP WebSerial Tool: 
 
-https://adafruit.github.io/Adafruit_WebSerial_ESPTool/
-
-Instructions for setting up the ESP WebSerial Tool in Google Chrome can be found here:
-
-https://learn.adafruit.com/adafruit-magtag/web-serial-esptool
-
-Neurons also support Arduino, Micropython and PlaformIO. For further instructions on these platforms please visit the Downloads page of the BrainBoardz website at:
+The ESP32S3 BZboards supports Arduino and AnnexRDS. The RP2350B "Jammy" supports CircuitPython, Micropython and ArduinoPlaformIO. For further instructions on these platforms please visit the Downloads page of the BrainBoardz website at:
 
 https://www.brainboardz.com/downloads/
 
