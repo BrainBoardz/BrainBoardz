@@ -8,7 +8,7 @@ This is the official repository for the BrainBoardz BZBoard system. BZBoards are
 
 Through the use of our expanding range of cross compatible modules and easy prototyping boards anyone can easily develop custom projects to harness the impressive capabilities of the latest generation of the Raspberry Pi RP2350B and the Espressif ESP32-S3. Simply connect one of our ESP32-S3 or RP235OB boards to a USB cable and you are ready to go. 
 
-![BZBOARDS](https://www.brainboardz.com/wp-content/uploads/2024/06/Neuron-M-components.png)
+![BZBOARDS](https://www.brainboardz.com/wp-content/uploads/2026/06/rp2350B.webp)
 
 ![BZBOARDS](https://www.brainboardz.com/wp-content/uploads/2024/06/Neuron-P-components-1.png)
 
