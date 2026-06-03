@@ -10,7 +10,7 @@ Through the use of our expanding range of cross compatible modules and easy prot
 
 ![BZBOARDS](https://www.brainboardz.com/wp-content/uploads/2026/06/rp2350B.webp)
 
-![BZBOARDS](https://www.brainboardz.com/wp-content/uploads/2024/06/Neuron-P-components-1.png)
+![BZBOARDS](https://www.brainboardz.com/wp-content/uploads/2026/06/ESP32.webp)
 
 We do not permit 3rd party board developers to use our logo/branding, but you are welcome to indicate that your project is BrainBoardz compatible if it is 100% (pin) compatible and it is produced using lead free solder.  The PCB designs and schematics for the entire BrainBoardz system are released under the Creative Commons Attribution Share-Alike license Version 4.0. Our code library is released under the GPLv3 license. 
 
