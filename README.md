@@ -20,7 +20,7 @@ We do not permit 3rd party board developers to use our logo/branding, but you ar
 Firmware Notes: 
 
 
-The ESP32S3 BZboards supports Arduino and AnnexRDS. The RP2350B "Jammy" supports CircuitPython, Micropython and ArduinoPlaformIO. For further instructions on these platforms please visit the Downloads page of the BrainBoardz website at:
+The ESP32S3 BZboards supports Arduino and AnnexRDS. The RP2350B "Jammy" supports CircuitPython, Micropython, Arduino and PlaformIO. For further instructions on these platforms please visit the Downloads page of the BrainBoardz website at:
 
 https://www.brainboardz.com/downloads/
 
