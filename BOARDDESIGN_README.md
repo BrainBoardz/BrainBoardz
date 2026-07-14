@@ -12,10 +12,9 @@ The schematics use parts that are sourced primarilly from LCSC. As some componen
 
 **Usage Notes:** 
 
-You are welcome to design/manufacture your own BrainBoardz board or Neuron compatible module(s). We do not allow 3rd party boards and modules to use our logo/branding, but you are welcome to indicate “BrainBoardz Compatible” on your board if it is 100% compatible and it is manufactured using a lead free process.
+You are welcome to design/manufacture your own BrainBoardz boards. We do not allow 3rd party boards and modules to use our logo/branding, but you are welcome to indicate “BrainBoardz Compatible” on your board if it is 100% compatible and it is manufactured using a lead free process.
 
-Please ensure that you follow our design guidelines closely. The pin assignments are very specific and have to be 100% consistent to maintain compatibility.  The distances between the dupont connectors must be very precise. 
-
+Please ensure that you follow the design guidelines closely. The pin assignments are very specific and have to be 100% consistent to maintain module compatibility.  The distances between the dupont connectors must be very precise. 
 
 The schematics for all BZBOARDS and BZMODS/BZCARDS are being released under the Creative Commons Attribution Share-Alike License Version 4.0.  All code and firmware for BrainBoardz boards are being released under the GPL V3 License.
 
