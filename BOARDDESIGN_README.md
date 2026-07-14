@@ -1,8 +1,8 @@
-﻿All BrainBoardz projects are developed in EasyEDA using EasyEDA Standard Edition. You can download this editor from here: 
+﻿All BrainBoardz projects are developed in EasyEDA using the EasyEDA Standard Edition. You can download this editor from here: 
 
 <https://easyeda.com/page/download>
 
-The schematics use parts that are sourced from LCSC. 
+The schematics use parts that are sourced primarilly from LCSC. As some components are added post board production please check the BOM carefully!!!
 
 **To utilize the project in EasyEDA use File:**
 
@@ -14,24 +14,12 @@ The schematics use parts that are sourced from LCSC.
 
 You are welcome to design/manufacture your own BrainBoardz board or Neuron compatible module(s). We do not allow 3rd party boards and modules to use our logo/branding, but you are welcome to indicate “BrainBoardz Compatible” on your board if it is 100% compatible and it is manufactured using a lead free process.
 
-Please ensure that you follow our design guidelines closely. The pin assignments are very specific and have to be 100% consistent to maintain compatibility.  The distances between the mPCIe connector and the mounting hole for the Neurons must be very precise. This will ensure compatibility with both the module positioning and the correct sizing of the mounting and riser holes. We recommend using our Nucleus template as a base outline for your project; it provide a minimum footprint for Neuron based projects. You can use our templates as a guide in your preferred EDA. At BrainBoardz we use EasyEDA as our primary EDA, but it is easy convert our JSON template file to KiCad using this handy tool if that is your preference:
-
-<https://wokwi.com/tools/easyeda2kicad>
+Please ensure that you follow our design guidelines closely. The pin assignments are very specific and have to be 100% consistent to maintain compatibility.  The distances between the dupont connectors must be very precise. 
 
 
-**Designing for mPCIe:**
+The schematics for all BZBOARDS and BZMODS/BZCARDS are being released under the Creative Commons Attribution Share-Alike License Version 4.0.  All code and firmware for BrainBoardz boards are being released under the GPL V3 License.
 
-Implementing the Mini PCE Express (mPCIe) based mounting system used in BrainBoardz does require access to some tools and supplies that are commonly available to electronics hobbyists:
-
-- A hot air station
-- A reusable mPCIe stencil (available from JLCPCB and the BrainBoardz store etc.)
-- Lead free SMD solder paste
-- A soldering iron, resin and a solder wick for fixing any soldering issues
-- An analog or digital microscope for verification/rework is strongly recommended
-
-The schematics for the Neurons and all BrainBoardz are being released under the Creative Commons Attribution Share-Alike License Version 4.0. The software and firmware for the BrainBoardz. Project is being released under the GPL V3 License.
-
-` `If you design a really interesting board we would love to see it!
+` `If you design a really interesting BZBoard or BZModule we would love to see it!
 
 
 
