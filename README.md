@@ -2,7 +2,7 @@
 
 ## BRAINBOARDZ - PLUG and CODE! 
 
-![BZBOARDS](https://www.brainboardz.com/wp-content/uploads/2024/06/Brainboardz-Series.webp)
+![BZBOARDS](https://www.brainboardz.com/wp-content/uploads/2026/06/Brainboardz-Series.webp)
 
 This is the official repository for the BrainBoardz BZBoard system. BZBoards are video (DVI/VGA) and audio centric ESP32-S3 and RP2350B based microcontroller based computers with additional modules that support libraries in Arduino, CircuitPython, MicroPython, AnnexRDS and PlatformIO. Our mission is to empower designers to develop projects based on our advanced and powerful microcontroller architecture. The entire BrainBoardz system is fully documented, open source and 100% license free. 
 
