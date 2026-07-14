@@ -4,7 +4,7 @@
 
 ![BZBOARDS](https://www.brainboardz.com/wp-content/uploads/2026/06/Brainboardz-Series.webp)
 
-This is the official repository for the BrainBoardz BZBoard system. BZBoards are ESP32-S3 and RP2350B based video (DVI/VGA) and audio centric microcontroller computers. They support Arduino, CircuitPython, MicroPython, AnnexRDS and PlatformIO. Our mission is to empower designers to develop projects based on our advanced and powerful microcontroller architecture. The entire BrainBoardz system is fully documented, open source and 100% license free. 
+This is the official repository for the BrainBoardz BZBoard system. BZBoards are ESP32-S3 and RP2350B based video (DVI/VGA) and audio centric microcontroller computers. They support Arduino, CircuitPython, MicroPython, AnnexRDS and PlatformIO. Our mission is to empower designers to develop projects based on our advanced and powerful microcontroller architecture. The entire BrainBoardz system is fully documented abd open source. The PCB designs and schematics for all BrainBoardz hardware is released under the CERN-OHL-W V2 license. All software and firmware is released under the GNU GPLv3 License. 
 
 Through the use of our expanding range of cross compatible modules and easy prototyping boards anyone can easily develop custom projects to harness the impressive capabilities of the Raspberry Pi RP2350B and the Espressif ESP32-S3. The boards are specifically designed to be easily adaptable to retro-PC projects. Simply connect one of our ESP32-S3 or RP235OB boards to a USB cable and you are ready to go. 
 
